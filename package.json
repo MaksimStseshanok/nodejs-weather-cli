@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-weather-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksimStseshanok/nodejs-weather-cli.git"
+  },
+  "author": "Maksim Stseshanok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksimStseshanok/nodejs-weather-cli/issues"
+  },
+  "homepage": "https://github.com/MaksimStseshanok/nodejs-weather-cli#readme"
+}
